@@ -1,0 +1,70 @@
+* {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+	padding: 20px;
+	text-align: center;
+	display: inline;
+	align-items: center;
+}
+
+#lt {
+	position: relative;
+	display: inline;
+	width: 100%;
+	text-align: center;
+}
+
+#logo_brians {
+	position: absolute;
+	float: left;
+	width: 200px;
+}
+
+#titol {
+	float: center;
+	text-align: center;
+	margin: 25px 0px 25px -50px;
+}
+
+.barra_navegacio {
+	text-align: center;
+}
+
+.barra_navegacio a {
+	color: black;
+	padding: 10px 50px;
+	display: inline;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+.bd-r {
+	border-right: 1px solid;
+}
+
+#logout {
+	width: 25px;
+}
+
+.espaiat {
+	padding: 10px 0px;
+}
+
+.bloc-t {
+	position: static;
+	margin: 0 auto;
+	width: 75%;
+	text-align: center;
+}
+
+.bloc-t > * {
+	width: 100%;
+	text-align: center;
+}
+
+#up-ly {
+	background-color: #33A8DB;
+	padding: 7px 0px 4px 5px;	
+}
